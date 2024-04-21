@@ -188,8 +188,8 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
-  margin-right: 6px;
+  max-height: 3rem; /* 40px; */
+  margin-right: 0.4rem; /* 6px; */
 }
 
 .header .logo span {
